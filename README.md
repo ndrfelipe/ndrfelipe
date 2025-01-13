@@ -1,5 +1,5 @@
 
-## Olá! Eu sou o André Braga 😄
+## Hi! I am André Braga 😄
 
 [![portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://lipethedev.netlify.app/#topo)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andr%C3%A9-braga-3b2939263/)
@@ -10,8 +10,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ndrfelipe&layout=compact)
 
 
-## Tecnologias do dia-a-dia
-
+## Day-to-day technologies
 <div style="display: inline_block"> <br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
     <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -24,12 +23,12 @@
 </div> <br/>
 
 
-Meu propósito é desenvolver soluções inovadoras que impactam a vida das pessoas utilizando tecnologia!
+My purpose is to develop innovative solutions that impact people's lives using technology!
 
-## Mais sobre mim
-- [Faço ADS na CESAR School](https://www.cesar.school/analise-e-desenvolvimento-de-sistemas-ads/)
-- [Sou do embarque digital e faço residência TECH no PORTO DIGITAL](https://www.portodigital.org/noticias/embarque-digital-abre-250-vagas-para-turma-2024-2)
-- [Faço trabalho volúntario, completando a coordenação de TI do Instituto IIDV](https://institutoidv.org/)
-- [Fui bolsista de estímulo à inovação, formado através do programa nacional Projeto Ninho](https://www.gov.br/fundacentro/pt-br/comunicacao/noticias/noticias/2023/novembro/projeto-ninho-capacita-bolsistas-de-estimulo-a-inovacao-de-recife-pe)
+## About me
+- [I study ADS at CESAR School](https://www.cesar.school/analise-e-desenvolvimento-de-sistemas-ads/)
+- [I'm from digital boarding and I'm doing my TECH residency at PORTO DIGITAL](https://www.portodigital.org/noticias/embarque-digital-abre-250-vagas-para-turma-2024-2)
+- [I do voluntary work, completing the IT coordination of the IIDV Institute](https://institutoidv.org/)
+- [I was awarded a grant to stimulate innovation through the national program Projeto Ninho (Nest Project).](https://www.gov.br/fundacentro/pt-br/comunicacao/noticias/noticias/2023/novembro/projeto-ninho-capacita-bolsistas-de-estimulo-a-inovacao-de-recife-pe)
 
 
